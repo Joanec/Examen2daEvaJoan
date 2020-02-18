@@ -33,7 +33,18 @@ a.menu {
     text-decoration: none;
   }
   
-a:hover.menu {
-    
+a:hover {
+    color: red;
+  }
+
+div.testcolour{
+    background-color: lightsteelblue;
+}
+
+table.mitabla{
+   background-color: chocolate; 
+}
+
+a:hover.colorojo {
     color: red;
   }
