@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap");
+
+html{
+    background-color: lightcoral;
+}
+
+h1.principal{
+
+    font-family: 'Zhi Mang Xing', cursive;
+    text-align: center;
+    color: red;
+    background-color: lightblue;
+}
+
+div.body{
+    background-color: lightyellow;
+}
+
+ul.menu {
+    list-style-type: none;
+    text-align: 
+  }
+  
+li.menu {
+    background-color: lightblue;
+    border: lightcoral 6px solid;
+    display: inline;
+    margin-right: 10px;
+  }
+  
+a.menu {
+    color: blue;
+    padding: 0 4px;
+    text-decoration: none;
+  }
+  
+a:hover.menu {
+    
+    color: red;
+  }
