@@ -48,3 +48,20 @@ table.mitabla{
 a:hover.colorojo {
     color: red;
   }
+
+
+div.coloresbonitos{
+    background-color: chocolate;
+
+}
+
+p.bonito {
+    text-align: center;
+    color: yellow;
+    border-bottom: yellow 10px dashed;
+    border-left: red 10px solid;
+    border-right: red 10px solid;
+    border-top: orange 10px dotted;
+  }
+
+  div.desarrollado
