@@ -43,6 +43,8 @@ div.testcolour{
 
 table.mitabla{
    background-color: chocolate; 
+   empty-cells: show;
+   border-collapse: separate;
 }
 
 a:hover.colorojo {
@@ -64,4 +66,27 @@ p.bonito {
     border-top: orange 10px dotted;
   }
 
-  div.desarrollado
+  div.desarrollado{
+      background-color: lightslategrey;
+  }
+
+  table.tablagris{
+    background-color: lightslategrey;
+    text-align: center;
+    margin-right: auto;
+ }
+
+ td.rojo{
+     background-color: chocolate;
+     padding: 20px;
+ }
+
+ td.rojo{
+    background-color: chocolate;
+    padding: 20px;
+}
+
+ table.tablachocolate{
+    background-color: chocolate;
+ }
+
